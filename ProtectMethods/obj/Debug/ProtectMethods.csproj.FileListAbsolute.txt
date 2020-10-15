@@ -1,0 +1,10 @@
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\bin\Debug\ProtectMethods.exe.config
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\bin\Debug\ProtectMethods.exe
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\bin\Debug\ProtectMethods.pdb
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\obj\Debug\ProtectMethods.csprojAssemblyReference.cache
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\obj\Debug\ProtectMethods.Form1.resources
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\obj\Debug\ProtectMethods.Properties.Resources.resources
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\obj\Debug\ProtectMethods.csproj.GenerateResource.cache
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\obj\Debug\ProtectMethods.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\obj\Debug\ProtectMethods.exe
+C:\Users\alexc\source\repos\ProtectMethods\ProtectMethods\obj\Debug\ProtectMethods.pdb
